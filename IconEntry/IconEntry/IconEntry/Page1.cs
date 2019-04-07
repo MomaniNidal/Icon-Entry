@@ -41,7 +41,7 @@ namespace IconEntry
                 else
                 {
                     Email.IsNormalFeildsSuccces = false;
-                    Email.SetWarining("Invlid Email Address !!!!!!:(");
+                    Email.SetWarining("Invlid Email Address test1");
                 }
 
             }
