@@ -14,5 +14,19 @@ namespace IconEntry.Constant
             public static readonly string ViewPassword = "viewpassword.png";
             public static readonly string Password = "password.png";
         }
+
+
+        public static class Files
+        {
+
+
+        }
+
+
+        public static class Colors
+        {
+
+
+        }
     }
 }
